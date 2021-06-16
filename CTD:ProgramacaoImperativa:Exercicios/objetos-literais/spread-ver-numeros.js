@@ -12,9 +12,8 @@ console.log(numerosJuntos);
 // Segundo exercício:
 
 function maiorNumero(...n) {
-    Math.min(...n);
-    console.log(Math.min(...n))
+    return Math.min(...n);
 }
 
-maiorNumero(20, 43, 15, 89, 74, 105)
+console.log(maiorNumero(20, 43, 15, 89, 74, 105));
 
