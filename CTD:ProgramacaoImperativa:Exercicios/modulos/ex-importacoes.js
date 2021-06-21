@@ -1,3 +1,3 @@
-let listaDeCompras = require("./listaDeCompras/index");
+let operacao = require("./operacao/index");
 
-console.log(listaDeCompras);
+console.log(operacao(10, 10));
