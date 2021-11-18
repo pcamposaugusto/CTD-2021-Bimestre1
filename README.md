@@ -1,8 +1,11 @@
 # CTD-2021-Bimestre1
-Repositório contendo os projetos e os exercícios das disciplinas práticas do curso Certified Tech Developer (CTD), da edtech Digital House (DH), referentes ao 1º Bimestre de 2021, iniciado em 24 de maio e finalizado em 30 de julho.
 
-Disciplinas:
+Repositório contendo os exercícios das disciplinas do **1º Bimestre de 2021** do curso Certified Tech Developer (CTD), da edtech Digital House (DH). 
 
-- Programação Imperativa
-- Banco de Dados
-- Front-end
+**Início**: 24 de maio<br>
+**Fim**: 30 de julho
+
+**Disciplinas**:
+
+- Programação Imperativa (JavaScript)
+- Banco de Dados (MySQL)
